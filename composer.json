@@ -1,15 +1,12 @@
 {
   "name": "aveadev/magento-2-german-language-pack",
   "description": "German language package for Magento 2",
-  "version": "0.0.2",
   "keywords": [
     "magento", 
     "german language",
     "de_DE"
   ],
   "type": "magento2-language",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "license": "MIT",
   "authors": [
     {

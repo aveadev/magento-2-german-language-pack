@@ -3,7 +3,7 @@
 **Install German language pack**:
 
 ``` php
-composer require aveadev/magento-2-german-language-pack:dev-main
+composer require aveadev/magento-2-german-language-pack
 php bin/magento setup:static-content:deploy de_DE
 php bin/magento indexer:reindex
 php bin/magento cache:clean
