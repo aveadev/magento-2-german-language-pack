@@ -15326,3 +15326,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Latest Products","Neuste Produkte",module,Magento_Catalog
 "Random Products","Zufällige Produkte",module,Magento_Catalog
 "As low as","Ab",module,Magento_ConfigurableProduct
+"View and edit cart","Warenkorb ansehen und bearbeiten",module,Magento_Checkout
